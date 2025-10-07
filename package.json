@@ -1,9 +1,9 @@
 {
   "originalAuthor": "Mark Cavage <mcavage@gmail.com>",
-  "name": "ldapjs",
+  "name": "@linkurious/ldapjs",
   "homepage": "http://ldapjs.org",
   "description": "LDAP client and server APIs",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "license": "MIT",
   "repository": {
     "type": "git",

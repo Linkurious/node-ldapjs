@@ -1,12 +1,12 @@
 {
-  "name": "ldapjs",
-  "version": "2.3.3",
+  "name": "@linkurious/ldapjs",
+  "version": "2.3.4",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
-      "name": "ldapjs",
-      "version": "2.3.3",
+      "name": "@linkurious/ldapjs",
+      "version": "2.3.4",
       "license": "MIT",
       "dependencies": {
         "abstract-logging": "2.0.1",
