@@ -2,12 +2,6 @@
 *.tar.*
 *.tgz
 
-# Lock files
-pnpm-lock.yaml
-shrinkwrap.yaml
-package-lock.json
-yarn.lock
-
 # Logs
 logs
 *.log
